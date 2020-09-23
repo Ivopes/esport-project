@@ -1,0 +1,12 @@
+.wrapper {
+  height: 100%;
+  color: aliceblue;
+  font-size: 4rem;
+  text-shadow: 0 0 30px #FF0000, 0 0 50px #0000FF;
+}
+span {
+  margin-top: 8rem;
+}
+.clickable:hover {
+  cursor: pointer;
+}
