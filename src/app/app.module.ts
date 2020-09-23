@@ -14,7 +14,6 @@ import { MainPageComponent } from './main-page/main-page.component';
 import { MainTeamComponent } from './main-team/main-team.component';
 import { CardComponent } from './main-team/card/card.component';
 
-
 @NgModule({
   declarations: [
     AppComponent,

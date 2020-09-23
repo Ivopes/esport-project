@@ -37,14 +37,14 @@ export class MainTeamComponent implements OnInit {
   denis: User = {
     Title: 'Denis',
     SubTitle: 'Rimmer',
-    PhotoUrl: 'https://scontent.fprg4-1.fna.fbcdn.net/v/t1.0-1/p200x200/76958422_2349927941786213_5831789607636697088_n.jpg?_nc_cat=107&_nc_sid=7206a8&_nc_ohc=leKguf0uNnIAX-egQzi&_nc_ht=scontent.fprg4-1.fna&tp=6&oh=137ed29743926ba1becf82d1433759da&oe=5F8FB4EC',
+    PhotoUrl: 'assets/userPic/denis.png',
     Content: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam erat volutpat. Proin in tellus sit amet nibh dignissim sagittis. Excepteur sint occaecat cupidatat non proident'
   };
   jirka: User = {
     Title: 'Jirka',
     SubTitle: 'Rimmer',
-    PhotoUrl: 'https://scontent.fprg4-1.fna.fbcdn.net/v/t1.0-9/12074923_498960266943358_3437431394433843290_n.jpg?_nc_cat=106&_nc_sid=09cbfe&_nc_ohc=aoBDrJV55lkAX93RqsU&_nc_ht=scontent.fprg4-1.fna&oh=71f96090a4fcfaeb411ab864cd155b49&oe=5F9010D1',
-    Content: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam erat volutpat. Proin in tellus sit amet nibh dignissim sagittis. Excepteur sint occaecat cupidatat non proident'
+    PhotoUrl: 'assets/userPic/Jirka.jpg',
+    Content: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam erat volutpat. Proin in tellus sit amet nibh dignissim sagittis. Excepteur sint occaecat cupidatat non proidentem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam erat volutpat. Proin in tellus sit amet nibh dignissim sagittis. Excepteur sint occaecat cupidatat non proidentem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam erat volutpat. Proin in tellus sit amet nibh dignissim sagittis. Excepteur sint occaecat cupidatat non proidentem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam erat volutpat. Proin in tellus sit amet nibh dignissim sagittis. Excepteur sint occaecat cupidatat non proident'
   };
   kominek: User = {
     Title: 'Pan Kominek',
