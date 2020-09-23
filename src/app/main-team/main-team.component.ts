@@ -25,7 +25,7 @@ export class MainTeamComponent implements OnInit {
   ivo: User = {
     Title: 'Ivo',
     SubTitle: 'Rimmer',
-    PhotoUrl: 'https://scontent.fprg4-1.fna.fbcdn.net/v/t1.0-1/p200x200/36784770_1708016935902834_5510810655608799232_n.jpg?_nc_cat=108&_nc_sid=7206a8&_nc_ohc=OzBADd_smvsAX_mHhh_&_nc_ht=scontent.fprg4-1.fna&tp=6&oh=85204510289c6a1f2e880d579e128ee2&oe=5F914619',
+    PhotoUrl: 'assets/userPic/ivo.png',
     Content: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam erat volutpat. Proin in tellus sit amet nibh dignissim sagittis. Excepteur sint occaecat cupidatat non proident'
   };
   hulda: User = {
@@ -49,7 +49,7 @@ export class MainTeamComponent implements OnInit {
   kominek: User = {
     Title: 'Pan Kominek',
     SubTitle: 'Rimmer',
-    PhotoUrl: 'https://scontent.fprg4-1.fna.fbcdn.net/v/t1.0-1/p200x200/117223792_3115411278506550_4060365568120457634_n.jpg?_nc_cat=109&_nc_sid=7206a8&_nc_ohc=WZLWcZkS1wkAX_zrkf2&_nc_ht=scontent.fprg4-1.fna&tp=6&oh=176cef8639db1c909a2d8b8fa53cb1d5&oe=5F8FBA3B',
+    PhotoUrl: 'assets/userPic/kominek.png',
     Content: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam erat volutpat. Proin in tellus sit amet nibh dignissim sagittis. Excepteur sint occaecat cupidatat non proident'
   };
 
