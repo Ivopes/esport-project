@@ -20,4 +20,7 @@ export class MainPageComponent implements OnInit {
   toTeam(): void {
     this.router.navigate(['/team']);
   }
+  toInfo(): void {
+    this.router.navigate(['/info']);
+  }
 }

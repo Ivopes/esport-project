@@ -13,13 +13,15 @@ import {MatCardModule} from '@angular/material/card';
 import { MainPageComponent } from './main-page/main-page.component';
 import { MainTeamComponent } from './main-team/main-team.component';
 import { CardComponent } from './main-team/card/card.component';
+import { MainInfoComponent } from './main-info/main-info.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     MainPageComponent,
     MainTeamComponent,
-    CardComponent
+    CardComponent,
+    MainInfoComponent
   ],
   imports: [
     BrowserModule,

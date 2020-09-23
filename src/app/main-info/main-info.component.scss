@@ -1,0 +1,43 @@
+.wrapper {
+  height: 100%;
+  color: aliceblue;
+  font-size: 4rem;
+}
+.clickable:hover {
+  cursor: pointer;
+}
+mat-card {
+  width: 800px;
+  height: 200px;
+}
+:host {
+  margin-top: 5rem;
+}
+.content {
+  padding-right: 5px;
+  text-align: justify;
+  height: 100%;
+  overflow-y: scroll;
+  //overflow: hidden;
+}
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey;
+  border-radius: 2px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: purple;
+  border-radius: 2px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: purple;
+}
