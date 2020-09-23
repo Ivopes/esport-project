@@ -1,8 +1,17 @@
-<div class="wrapper" fxLayout fxLayoutAlign="space-around center">
-   <span  class="clickable" (click)="this.toInfo()">
-    History
-  </span>
-   <span  class="clickable" (click)="this.toTeam()">
-    Members
-  </span>
+<div class="wrapper" fxLayout="column" fxLayoutAlign="end center" fxLayoutGap="30rem">
+
+  <div style="width: 100%;" fxLayout="row" fxLayoutAlign="space-around center">
+    <span  class="clickable" (click)="this.toInfo()">
+      History
+    </span>
+    <span  class="clickable" (click)="this.toTeam()">
+      Members
+    </span>
+  </div>
+
+  <div class="bottom">
+    <span  class="clickable" (click)="this.toContact()">
+      Contact us
+    </span>
+  </div>
 </div>

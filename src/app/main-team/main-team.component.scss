@@ -12,6 +12,12 @@ app-card {
 .clickable:hover {
   cursor: pointer;
 }
-:host {
+/*:host {
     margin-top: 22rem;
+}*/
+:host  {
+	display: block;
+	position: absolute;
+	width: 100%;
+	height: 100%;
 }

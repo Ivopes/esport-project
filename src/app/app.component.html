@@ -1,3 +1,12 @@
-<div [@routeAnimations]="prepareRoute(outlet)" style="height: 100%;" fxLayout="column" fxLayoutAlign="center stretch">
+<!-- <div [@routeAnimations]="prepareRoute(outlet)" style="height: 100%;" fxLayout="column" fxLayoutAlign="center stretch">
   <router-outlet #outlet="outlet"></router-outlet>
+</div> -->
+<div
+	class="router-wrapper"
+  [@moveFromLeft]="getState(o)"
+	[@moveFromRight]="getState(o)"
+	[@moveFromBottom]="getState(o)"
+	[@moveFromTop]="getState(o)"
+	>
+	<router-outlet #o="outlet">  </router-outlet>
 </div>

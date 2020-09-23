@@ -23,4 +23,7 @@ export class MainPageComponent implements OnInit {
   toInfo(): void {
     this.router.navigate(['/info']);
   }
+  toContact(): void {
+    this.router.navigate(['/contact']);
+  }
 }

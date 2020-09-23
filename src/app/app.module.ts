@@ -14,6 +14,7 @@ import { MainPageComponent } from './main-page/main-page.component';
 import { MainTeamComponent } from './main-team/main-team.component';
 import { CardComponent } from './main-team/card/card.component';
 import { MainInfoComponent } from './main-info/main-info.component';
+import { MainContactComponent } from './main-contact/main-contact.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import { MainInfoComponent } from './main-info/main-info.component';
     MainPageComponent,
     MainTeamComponent,
     CardComponent,
-    MainInfoComponent
+    MainInfoComponent,
+    MainContactComponent
   ],
   imports: [
     BrowserModule,
