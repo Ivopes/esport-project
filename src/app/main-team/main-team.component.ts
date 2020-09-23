@@ -31,12 +31,12 @@ export class MainTeamComponent implements OnInit {
   hulda: User = {
     Title: 'Hulda',
     SubTitle: 'Rimmer',
-    PhotoUrl: 'https://scontent.fprg4-1.fna.fbcdn.net/v/t1.0-9/29356515_1740769759277061_3070223093411610624_o.jpg?_nc_cat=107&_nc_sid=09cbfe&_nc_ohc=Vq9_q6TaAoYAX-z3P73&_nc_ht=scontent.fprg4-1.fna&oh=9cd6db92aa62100b84fb508fdd339994&oe=5F92A5FF',
+    PhotoUrl: 'assets/userPic/hulda.png',
     Content: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam erat volutpat. Proin in tellus sit amet nibh dignissim sagittis. Excepteur sint occaecat cupidatat non proident'
   };
   denis: User = {
     Title: 'Denis',
-    SubTitle: 'Rimmer',
+    SubTitle: 'Kapitan Rimmer',
     PhotoUrl: 'assets/userPic/denis.png',
     Content: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam erat volutpat. Proin in tellus sit amet nibh dignissim sagittis. Excepteur sint occaecat cupidatat non proident'
   };
