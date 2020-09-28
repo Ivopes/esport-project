@@ -1,17 +1,14 @@
-<div class="wrapper" fxLayout="column" fxLayoutAlign="end center" fxLayoutGap="30rem">
+<div class="wrapper" fxLayout="row" fxLayoutAlign="none center" fxLayoutGap="0rem">
 
-  <div style="width: 100%;" fxLayout="row" fxLayoutAlign="space-around center">
-    <span  class="clickable" (click)="this.toInfo()">
-      History
+    <span fxFlex class="clickable" (click)="this.toInfo()">
+      Merch
     </span>
-    <span  class="clickable" (click)="this.toTeam()">
-      Members
-    </span>
-  </div>
 
-  <div class="bottom">
-    <span  class="clickable" (click)="this.toContact()">
+    <span fxFlex fxFlexAlign="end" class="clickable bottom" (click)="this.toContact()">
       Contact us
     </span>
-  </div>
+    <span fxFlex class="clickable" (click)="this.toTeam()">
+      Members
+    </span>
+
 </div>

@@ -35,10 +35,10 @@ export class MainTeamComponent implements OnInit {
     Content: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam erat volutpat. Proin in tellus sit amet nibh dignissim sagittis. Excepteur sint occaecat cupidatat non proident'
   };
   denis: User = {
-    Title: 'Denis',
-    SubTitle: 'Kapitan Rimmer',
+    Title: 'Denis Lokaj',
+    SubTitle: 'DeniGOD',
     PhotoUrl: 'assets/userPic/denis.png',
-    Content: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam erat volutpat. Proin in tellus sit amet nibh dignissim sagittis. Excepteur sint occaecat cupidatat non proident'
+    Content: 'Narozen 24.7.1998 ve Frýdku-Místku. Jako malého mě počítačové hry fascinovaly a rád jsem hraním trávil svůj volný čas, v této době jsem ale ještě netušil, že právě tyhle hry ve mně později vzbudí zvídavost v informačních technologiích, ať už se jedná o hardware nebo software. Nyní jsem už dospělý a volný čas trávím především jinak, hry nejsou moje každodenní náplň a z velké části mě omrzely, ale zájem o technologii „pod pokličkou“ vzkvétá. Ve svém volném čase rád posedím s přáteli, rekreačně sportuju, lyže, kolo, plavání, cvičení. Občas si přečtu knihu na téma, které mě momentálně zajímá, poslouchám hudbu a když je chuť, tak i sem tam něco poživatelného uvařím.'
   };
   jirka: User = {
     Title: 'Jirka',
