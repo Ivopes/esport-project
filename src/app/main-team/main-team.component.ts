@@ -29,7 +29,7 @@ export class MainTeamComponent implements OnInit {
     Content: 'Ročník 1998. Jsem bývalý hráč Doty, na které mám přes 1500 hodin. Poté přesun na CS:GO ve kterém mám něco málo přes 1000 hodin. Jsem výborný hráč, který umí hrát nejenom na aim, ale taky na brain. Nebojím se sem tam i něco callnout. Občas si zanadávám když borec proti mě náhodou trefí něco co by v životě jinak netrefil ani kdyby chtěl. Rád hraju se svým spoluhráčem Huldou !S!, je mi jasné co udělá ještě dřív než to ví on sám. Moje nejoblíbenější zbraň je AK-47, nejoblíbenější mapa je inferno. Můj největší nepřítel – PING. '
   };
   hulda: User = {
-    Title: 'Daniel Hulda',
+    Title: 'Daniel Hula',
     SubTitle: 'Hulda !S!',
     PhotoUrl: 'assets/userPic/hulda.jpg',
     Content: 'Narodil jsem se 15.10 1998. Od mala jsem již “buřil“ co se dalo, myslím tím samozřejmě hry. Nejoblíbenější herní tituly pro mě byly tekken 3, destruction derby a jednoznačně crash bandicoot. U každé hry je pro mě důležité makro. Sleduju všechny možné profíky, abych věděl u dané hry všechny taktiky, protože jak se říká: “Kdo je připraven, není překvapen.“ Jako hráč jsem dosti agresivní a často rageuju. Proto si rád zahraju i nějakou tu oddechovku jako je třeba “Snail Bob“. Všem doporučuji. V csku jsem entry frager a nejradši se spoléhám na taktiku “spray \'n pray“. O našem týmu si myslím, že se krásně doplňujeme a v gamingu patříme určitě ke špici.'
